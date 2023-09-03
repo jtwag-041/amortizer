@@ -39,20 +39,22 @@ Created to amortize loan-level or representative lines of assets with the given 
 
 5 floating assets to amortize:
 
-https://github.com/jtwag-041/amortizer/blob/main/runtointeractive_floatingassets%20(2).gif
+![runtointeractive_floatingassets (2)](https://github.com/jtwag-041/amortizer/assets/48776287/2c38f2f6-91f6-4d2f-b9fc-b2363c54950d)
+
 
 
 
 
 5 fixed assets with varying rates to amortize pay on a quarterly basis:
 
-https://github.com/jtwag-041/amortizer/blob/main/runtointeractive_fixedassets%20(2).gif
+![runtointeractive_fixedassets (2)](https://github.com/jtwag-041/amortizer/assets/48776287/d70a8ce2-dd85-4476-88c1-eeacaf477626)
 
-![rates_data_screen (2)](https://github.com/jtwag-041/amortizer/assets/48776287/83483ac3-28fa-4845-be66-22b03b43379e)
+
+
 
 Benchmark rates**: 
 
-https://github.com/jtwag-041/amortizer/blob/main/rates_data_screen%20(2).PNG
+![rates_data_screen (2)](https://github.com/jtwag-041/amortizer/assets/48776287/83483ac3-28fa-4845-be66-22b03b43379e)
 
 **Note: Most benchmark rates used for this demo were estimated and projected based on publicly available LIBOR and Prime curves
 
@@ -61,7 +63,8 @@ https://github.com/jtwag-041/amortizer/blob/main/rates_data_screen%20(2).PNG
 
 **Demo**
 
-https://github.com/jtwag-041/amortizer/blob/main/runtointeractive_outputf_floatingassets.gif
+![runtointeractive_outputf_floatingassets](https://github.com/jtwag-041/amortizer/assets/48776287/458dc9d7-5a14-489b-a6a7-f51a1ead7d7c)
+
 
 Note: The more assets there to amortize, the longer it takes. In the demo, 5 assets took ~40 seconds.
 
@@ -72,12 +75,14 @@ Note: The more assets there to amortize, the longer it takes. In the demo, 5 ass
 
 5 floating assets:
 
-https://github.com/jtwag-041/amortizer/blob/main/runtointeractive_output_floating_assets.gif
+![runtointeractive_output_floating_assets](https://github.com/jtwag-041/amortizer/assets/48776287/6df43b88-6d7a-4151-abfe-5424b10c331c)
+
 
 
 Output with 5 fixed assets:
 
-https://github.com/jtwag-041/amortizer/blob/main/runtointeractive_output_fixedassets.gif
+![runtointeractive_output_fixedassets](https://github.com/jtwag-041/amortizer/assets/48776287/249dc11a-eb93-40f7-9fcd-338ce6ba009a)
+
 
 
 
