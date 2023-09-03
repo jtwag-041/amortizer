@@ -1,5 +1,5 @@
 # amortizer
-Notional amortizer 1.0
+Notional Amortizer 1.0
 
 
 Created to amortize loan-level or representative lines of assets with the given inputs* (in that order):
