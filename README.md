@@ -39,19 +39,19 @@ Created to amortize loan-level or representative lines of assets with the given 
 
 5 floating assets to amortize:
 
-![runtointeractive_floatingassets](https://github.com/jtwag-041/amortizer/assets/48776287/227a9b08-7e0f-4a35-b52b-7bf067563654)
+https://github.com/jtwag-041/amortizer/blob/main/runtointeractive_floatingassets%20(2).gif
 
 
 
 
 5 fixed assets with varying rates to amortize pay on a quarterly basis:
 
-![runtointeractive_fixedassets](https://github.com/jtwag-041/amortizer/assets/48776287/c026caf5-7dd4-4810-93c3-3fd082e5af63)
+https://github.com/jtwag-041/amortizer/blob/main/runtointeractive_fixedassets%20(2).gif
 
 
 Benchmark rates**: 
 
-![rates_data_screen](https://github.com/jtwag-041/amortizer/assets/48776287/6153a6b3-c0c2-4a27-bc8f-6bcb093182be)
+https://github.com/jtwag-041/amortizer/blob/main/rates_data_screen%20(2).png
 
 **Note: Most benchmark rates used for this demo were estimated and projected based on publicly available LIBOR and Prime curves
 
@@ -60,7 +60,7 @@ Benchmark rates**:
 
 **Demo**
 
-![runtointeractive_outputf_floatingassets](https://github.com/jtwag-041/amortizer/assets/48776287/b5432194-80d9-4514-85fb-451d25390d22)
+https://github.com/jtwag-041/amortizer/blob/main/runtointeractive_outputf_floatingassets.gif
 
 Note: The more assets there to amortize, the longer it takes. In the demo, 5 assets took ~40 seconds.
 
@@ -71,12 +71,12 @@ Note: The more assets there to amortize, the longer it takes. In the demo, 5 ass
 
 5 floating assets:
 
-![runtointeractive_output_floating_assets](https://github.com/jtwag-041/amortizer/assets/48776287/6c4cea47-cfd9-4390-a872-cbbe75441a4c)
+https://github.com/jtwag-041/amortizer/blob/main/runtointeractive_output_floating_assets.gif
 
 
 Output with 5 fixed assets:
 
-![runtointeractive_output_fixedassets](https://github.com/jtwag-041/amortizer/assets/48776287/d0c50221-0c69-47f8-9baa-0c9f997a669f)
+https://github.com/jtwag-041/amortizer/blob/main/runtointeractive_output_fixedassets.gif
 
 
 
