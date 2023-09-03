@@ -48,10 +48,11 @@ https://github.com/jtwag-041/amortizer/blob/main/runtointeractive_floatingassets
 
 https://github.com/jtwag-041/amortizer/blob/main/runtointeractive_fixedassets%20(2).gif
 
+![rates_data_screen (2)](https://github.com/jtwag-041/amortizer/assets/48776287/83483ac3-28fa-4845-be66-22b03b43379e)
 
 Benchmark rates**: 
 
-https://github.com/jtwag-041/amortizer/blob/main/rates_data_screen%20(2).png
+https://github.com/jtwag-041/amortizer/blob/main/rates_data_screen%20(2).PNG
 
 **Note: Most benchmark rates used for this demo were estimated and projected based on publicly available LIBOR and Prime curves
 
