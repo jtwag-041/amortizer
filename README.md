@@ -1,6 +1,14 @@
 # amortizer
 Notional Amortizer 1.0
 
+**Table of contents**
+1. Overview
+2. Inputs
+3. Demo
+4. Outputs
+
+
+**1. Overview**
 
 Created to amortize loan-level or representative lines of assets with the following inputs* (in that order):
 - Description
@@ -33,7 +41,7 @@ Created to amortize loan-level or representative lines of assets with the follow
 
 
 
-**Input sheets**
+**2. Inputs**
 
 (Click on the GIFS to enlarge and open in new tab)
 
@@ -61,7 +69,7 @@ Benchmark rates**:
 
 
 
-**Demo**
+**3. Demo**
 
 ![runtointeractive_outputf_floatingassets](https://github.com/jtwag-041/amortizer/assets/48776287/458dc9d7-5a14-489b-a6a7-f51a1ead7d7c)
 
@@ -71,7 +79,7 @@ Note: The more assets there to amortize, the longer it takes. In the demo, 5 ass
 
 
 
-**Output**
+**4. Outputs**
 
 5 floating assets:
 
