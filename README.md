@@ -2,7 +2,7 @@
 Notional Amortizer 1.0
 
 
-Created to amortize loan-level or representative lines of assets with the given inputs* (in that order):
+Created to amortize loan-level or representative lines of assets with the following inputs* (in that order):
 - Description
 - Original principal balance
 - Current Principal balance
