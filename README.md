@@ -37,7 +37,7 @@ Created to amortize loan-level or representative lines of assets with the given 
 
 (Click on the GIFS to enlarge and open in new tab)
 
-5 floating assets to amortize:
+5 floating assets to amortize with quarterly payments:
 
 ![runtointeractive_floatingassets (2)](https://github.com/jtwag-041/amortizer/assets/48776287/2c38f2f6-91f6-4d2f-b9fc-b2363c54950d)
 
@@ -45,7 +45,7 @@ Created to amortize loan-level or representative lines of assets with the given 
 
 
 
-5 fixed assets with varying rates to amortize pay on a quarterly basis:
+5 fixed assets to amortize with quarterly payments:
 
 ![runtointeractive_fixedassets (2)](https://github.com/jtwag-041/amortizer/assets/48776287/d70a8ce2-dd85-4476-88c1-eeacaf477626)
 
