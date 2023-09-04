@@ -79,7 +79,7 @@ Note: The more assets there to amortize, the longer it takes. In the demo, 5 ass
 
 
 
-Output with 5 fixed assets:
+5 fixed assets:
 
 ![runtointeractive_output_fixedassets](https://github.com/jtwag-041/amortizer/assets/48776287/249dc11a-eb93-40f7-9fcd-338ce6ba009a)
 
